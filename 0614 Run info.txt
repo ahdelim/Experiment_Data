@@ -1,0 +1,26 @@
+.LOG
+4:03 PM 6/14/2019
+- Warming up PC
+- Check sensor
+- test torque and others
+4:11 PM 6/14/2019
+
+1838 RPM
+---------
+5.00 - 9
+4.55 - 10
+4.00 - 12
+3.9 - 14
+3.65 - 16
+3.00 - 18
+2.65 - 21
+
+ 
+4:48 PM 6/14/2019
+-------------------
+
+Finished running 2100 RPM
+casing 45C
+upper cover 67C
+shaft 73C
+9:03 PM 3/7/2019
